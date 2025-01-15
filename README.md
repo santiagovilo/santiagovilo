@@ -13,7 +13,7 @@
 - ✍️ Currently studying English ✍️
 - ⭐ Data Scientist ⭐
 - 🎲 Databases (MySQL Y PostgreSQL) 🎲 
-- 💻 Web Development Fullstack (PHP, NodeJS, JavaScript, React yMaterial UI) 💻
+- 💻 Web Development Fullstack (PHP, NodeJS, JavaScript, React y Material UI) 💻
 - 🖍️ Using frameworks (Bootstrap) 🖍️
 
 <br>
@@ -26,33 +26,26 @@
 <div align="center">
   <img src="https://i.imgur.com/6TJXvHr.jpeg" width="400" alt="LMS Pichi"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/santiagovilo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>This software was designed to provide a web-based environment <strong>for language and technology education centers<strong>. This web environment offers distinct interfaces for each user role. For students, there are options to access and review courses with their own personalized information. For teachers, the system includes features to upload grades and view their personal information. For the administrator, there are options to manage all the information stored in the database.</p>
+</div>                                                                                    
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Payment System</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a><img src="https://i.imgur.com/kh3QczU.png" width="400" alt="Payment System"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/santiagovilo/payment-system"" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Introduction The Payment-System project is a web application designed to manage payments efficiently. This system allows users to enter payment data such as amount, reference, bank, mobile payment number and a screenshot of the payment receipt. The application is developed using React for the frontend, Node.js with Express for the backend and PostgreSQL as the database.The pgAdmin4 graphical interface is used for database configuration.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -61,35 +54,29 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Vehicle dealership with inventory</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a><img src="https://i.imgur.com/lmcEg51.jpeg" width="400" alt="Vehicle dealership"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/santiagovilo/actividad5progweb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>The project appears to be a web application that manages an inventory system. It includes functionalities for managing various entities such as clients, mechanics, spare parts, vehicles, and users. The application is structured with a backend that handles database connections, CRUD operations, and report generation, as well as a frontend that likely provides a user interface for interacting with these entities.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Water bottling plant</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a><img src="https://i.imgur.com/sWFlajS.jpeg" width="400" alt="Water bottling plant"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/santiagovilo/actividad4progweb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>This project appears to be a web application for managing the operations of a bottling company, specifically for filling water bottles.Including the entry of new orders, reports of the records made, in addition, the software has a login for users.</p>
 </div>
                                                                                       
 </td>  
@@ -100,7 +87,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/santiagovilo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
