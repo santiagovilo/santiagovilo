@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-viloria-4a329a202/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Santiago.Viloria)
-
+<a href="vasantiagoandres@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-vasantiagoandres@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ## Abaout me
 
@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://i.imgur.com/6TJXvHr.jpeg" width="400" alt="LMS Pichi"></a>
 <p>
-<a href="https://github.com/santiagovilo" target="_blank">
+<a href="https://github.com/PichiGod/Pichi-Tesis-LMS" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -88,7 +88,7 @@
 
 <p align="center">
 <a href="https://github.com/santiagovilo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santiagovilo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiagovilo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
