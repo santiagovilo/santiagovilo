@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/nR2OUMa.png"
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-viloria)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-viloria/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Santiago.Viloria)
 [![](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vasantiagoandres@gmail.com)
 
