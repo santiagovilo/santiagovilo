@@ -7,14 +7,14 @@
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Santiago.Viloria)
 [![](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vasantiagoandres@gmail.com)
 
-## Abaout me
+## About me
 
 - 👨‍🎓 Computer engineer, lover of continuous learning 👨‍🎓
-- ✍️ Currently studying English ✍️
+- ✍️ English student ✍️
 - ⭐ Passionate about Data Scientist ⭐
 - 🎲 Databases (MySQL Y PostgreSQL) 🎲 
 - 💻 Web Development Fullstack (PHP, NodeJS, JavaScript, React y Material UI) 💻
-- 🖍️ Using frameworks (Bootstrap) 🖍️
+- 🖍️ Front-end frameworks (Bootstrap) 🖍️
 
 <br>
 
