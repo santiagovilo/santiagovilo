@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi i'm Santiago Viloria <a href="https://linktr.ee/Santiago.Viloria"></a><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 </div>
-<img src="https://i.imgur.com/nR2OUMa.png"
+<img src="https://i.imgur.com/V9fBmPy.png"
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-viloria/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Santiago.Viloria)
