@@ -9,9 +9,9 @@
 
 ## About me
 
-- 👨‍🎓 Computer engineer, lover of continuous learning 👨‍🎓
-- ✍️ English student ✍️
-- ⭐ Passionate about Data Scientist ⭐
+- 👨‍🎓 Software engineer, lover of continuous learning 👨‍🎓
+- ✍️ English student (B1 English level currently)✍️
+- ⭐ Passionate about AI and smart solutions with AI ⭐
 - 🎲 Databases (MySQL Y PostgreSQL) 🎲 
 - 💻 Web Development Fullstack (PHP, NodeJS, JavaScript, React y Material UI) 💻
 - 🖍️ Front-end frameworks (Bootstrap) 🖍️
@@ -71,29 +71,29 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Vehicle dealership with inventory</h3>
+<h3 align="center">ECS-Gruppe Corporate Website</h3>
 <div align="center">
-<a><img src="https://i.imgur.com/lmcEg51.jpeg" width="400" alt="Vehicle dealership"></a>
+<a><img src="https://i.ibb.co/3PrS7t7/ECS-Gruppe-Corporate-Website.png" width="400" alt="ECS-Gruppe Corporate Website"></a>
 <p>
-<a href="https://github.com/santiagovilo/actividad5progweb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://ecs-gruppe.com/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>The project appears to be a web application that manages an inventory system. It includes functionalities for managing various entities such as clients, mechanics, spare parts, vehicles, and users. The application is structured with a backend that handles database connections, CRUD operations, and report generation, as well as a frontend that likely provides a user interface for interacting with these entities.</p>
+<p>Professional bilingual (German/English) website for a cleaning services company. Features mobile-first responsive design, multi-language support, customer testimonials, GDPR-compliant quote system, and optimized SEO for local visibility, built in PHP, HTML5, CSS3, JavaScript and WordPress.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Water bottling plant</h3>
+<h3 align="center">Mariela Consulting Co.</h3>
 <div align="center">
-<a><img src="https://i.imgur.com/sWFlajS.jpeg" width="400" alt="Water bottling plant"></a>
+<a><img src="https://i.ibb.co/NgGXJnD0/Mariela-Consulting-Co.jpg" width="400" alt="Mariela Consulting Co"></a>
 <p>
-<a href="https://github.com/santiagovilo/actividad4progweb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.marielaconsulting.com/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This project appears to be a web application for managing the operations of a bottling company, specifically for filling water bottles.Including the entry of new orders, reports of the records made, in addition, the software has a login for users.</p>
+<p>Professional consulting platform centralizing immigration, tax, and business services. Built with modern web technologies offering responsive design, service booking, contact forms, and clear information architecture focused on scalability and performance.</p>
 </div>
                                                                                       
 </td>  
