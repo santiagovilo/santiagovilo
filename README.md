@@ -1,16 +1,17 @@
 <div align="center">
 <h1 align="center">Hi i'm Santiago Viloria <a href="https://linktr.ee/Santiago.Viloria"></a><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 </div>
-<img src="https://i.imgur.com/V9fBmPy.png"
+<img src="https://i.imgur.com/PRTqS6J.png"
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-viloria/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Santiago.Viloria)
 [![](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vasantiagoandres@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://portafolio-santiago-viloria.vercel.app/)
 
 ## About me
 
 - 👨‍🎓 Software engineer, lover of continuous learning 👨‍🎓
-- ✍️ English student (B1 English level currently)✍️
+- ✍️ English student (B1 English level currently) ✍️
 - ⭐ Passionate about AI and smart solutions with AI ⭐
 - 🎲 Databases (MySQL Y PostgreSQL) 🎲 
 - 💻 Web Development Fullstack (PHP, NodeJS, JavaScript, React y Material UI) 💻
