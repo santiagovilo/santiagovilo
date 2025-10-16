@@ -73,7 +73,7 @@
 <td width="50%">
 <h3 align="center">ECS-Gruppe Corporate Website</h3>
 <div align="center">
-<a><img src="https://i.ibb.co/3PrS7t7/ECS-Gruppe-Corporate-Website.png" width="400" alt="ECS-Gruppe Corporate Website"></a>
+<a><img src="https://i.imgur.com/zTi1nd9.png" width="400" alt="ECS-Gruppe Corporate Website"></a>
 <p>
 <a href="https://ecs-gruppe.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -87,7 +87,7 @@
 <td width="50%">
 <h3 align="center">Mariela Consulting Co.</h3>
 <div align="center">
-<a><img src="https://i.ibb.co/NgGXJnD0/Mariela-Consulting-Co.jpg" width="400" alt="Mariela Consulting Co"></a>
+<a><img src="https://i.imgur.com/DGIZCNk.jpeg" width="400" alt="Mariela Consulting Co"></a>
 <p>
 <a href="https://www.marielaconsulting.com/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
